@@ -49,7 +49,7 @@ const Pokemon = (props) => {
     };
 
     return (
-        // 1. pokemon=undefined, so return loading progress
+        // 1. pokemon = undefined, so return loading progress
         // 2. pokemon = good data, so return actual info
         // 3. pokemon = bad data / false, so return pokemon not found
         <>
